@@ -8,7 +8,7 @@ Broad Steps:
 
 1. Basic EDA: Going through the data, exploring the counts and frequency of tweets
 		result- Post removal of mentions from tweets (@___), repititions are observed, with different target values,
-		Duplicates removed, final target value averaged and rounded off, midway values imputed
+		Duplicates removed, final target value averaged and rounded off. midway values(=2) and blank tweets are removed
 
 2. Preprocessing: Just like any other NLP project we use preprocessing techniques on text to make it computer-readable.
 		we use RegEx and NLTK for that. 
