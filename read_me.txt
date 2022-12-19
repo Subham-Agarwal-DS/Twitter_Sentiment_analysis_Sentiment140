@@ -1,4 +1,6 @@
 This is a code on sentiment analysis using twitter dataset available for free on multiple sources including kaggle.
+Availale here - http://help.sentiment140.com/for-students
+
 the dataset has 1.6 million tweets with a sentiment target value of 0-negative or 4-positive.
 Additional columns are: timestamp, query (which is blank), and username.
 While the extra info might be useful in some otehr cases, for a Sentiment Analysis we will only need the tweets and target values.
